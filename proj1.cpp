@@ -1,3 +1,4 @@
+// This is sample project to run servo motor 
 #include <Servo.h>
 Servo servo1;
 int servoPin = 9;
