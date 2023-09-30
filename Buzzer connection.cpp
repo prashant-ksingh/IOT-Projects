@@ -1,6 +1,7 @@
 // C++ code
 // Install header files if you want to run this code other than tinkercad 
 // link for this project is-https://www.tinkercad.com/things/gyStyJ7r0ql?sharecode=MK7SLs7wHL65Xi555TC66agDbfLCBoiObDjOKJtYQ_c
+// Pin Diagram is avilable in Readme.md File
 void setup()
 {
   Serial.begin(9600);
